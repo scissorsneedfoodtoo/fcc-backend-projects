@@ -1,0 +1,3 @@
+[submodule "boilerplates/apis-and-microservices/01-boilerplate-project-timestamp"]
+	path = boilerplates/apis-and-microservices/01-boilerplate-project-timestamp
+	url = https://github.com/freeCodeCamp/boilerplate-project-timestamp
